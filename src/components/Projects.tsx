@@ -11,7 +11,7 @@ interface Project {
 
 const projects: Project[] = [
   {
-    image: "../src/assets/project-1.png",
+    image: "/project-1.png",
     title: "Portfolio",
     githubLink: "https://github.com/jdkuffa/Portfolio",
     demoLink: "https://gigikuffa.netlify.app",
@@ -19,7 +19,7 @@ const projects: Project[] = [
     description: "My portfolio website."
   },
   {
-    image: "../src/assets/project-2.png",
+    image: "/project-2.png",
     title: "Pomohero",
     githubLink: "https://github.com/jdkuffa/Pomohero",
     demoLink: "https://pomohero.netlify.app",
@@ -27,7 +27,7 @@ const projects: Project[] = [
     description: "Productivity tool with a single dashboard."
   },
   {
-    image: "../src/assets/project-3.png",
+    image: "/project-3.png",
     title: "Chatterbox",
     githubLink: "https://github.com/gdscwm/real-time-chat-app",
     demoLink: "https://go-chat-krf0.onrender.com/",
