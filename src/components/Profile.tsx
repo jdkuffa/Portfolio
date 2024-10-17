@@ -26,7 +26,7 @@ const Profile: React.FC = () => {
   return (
     <section id="profile">
       <div className="section__pic-container">
-        <img src="./profile-pic-3.png" alt="Gigi's profile picture" />
+        <img src="../src/assets/profile-pic-3.png" alt="Gigi's profile picture" />
       </div>
       <div className="section__text">
         <p className="section__text__p1">Hello, I'm</p>
